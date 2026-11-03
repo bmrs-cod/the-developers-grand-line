@@ -442,11 +442,7 @@ Este portfólio é um projeto acadêmico independente, sem vínculo oficial com 
 
 ## Links do projeto
 
-- GitHub: adicionar URL do repositório público.
-- Vercel: adicionar URL do site publicado.
-- Vídeo de apresentação: adicionar URL do vídeo não listado.
-
-## Autor
-
-Bruno Marcelo Real e Silva  
+- GitHub: https://github.com/bmrs-cod/the-developers-grand-line
+- Site publicado: https://the-developers-grand-line-43e3.vercel.app
+- Documentação do Harness: [docs/HARNESS.md](docs/HARNESS.md)
 RM: 569785  
